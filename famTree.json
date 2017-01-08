@@ -1,0 +1,18 @@
+[
+	{
+		'name': 'Emma de Milliano',
+		'sex':	'f',
+		'born':	'1876',
+		'died':	'1956',
+		'father':	'Petrus de Milliano'
+		'mother':	'Sophia van Damme'
+	},
+		{
+		'name':	'Carlos Heverbeke',
+		'sex':	'm',
+		'born':	'1832',
+		'died':	'1905',
+		'father':	'Carel Heverbeke',
+		'mother':	'Maria van Brussel'
+	}
+]	
